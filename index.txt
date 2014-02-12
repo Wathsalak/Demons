@@ -1,0 +1,252 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Eshcol group industrial services.</title>
+<meta name="keywords" content = "Safety Equipments,Industrial chemicals,Engineering services"/>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/grid.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/jquery-ui-1.8.5.custom.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.4.2.min.js" ></script>
+<script type="text/javascript" src="js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.5.custom.min.js"></script>
+<script type="text/javascript" src="js/mm_css_menu.js"></script>
+<!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
+<script type="text/javascript">
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script>
+      function initialize() {
+        var map_canvas = document.getElementById('map_canvas');
+        var map_options = {
+          center: new google.maps.LatLng(44.5403, -78.5463),
+          zoom: 8,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(map_canvas, map_options)
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+<style type="text/css">
+#blink {
+	font-size: 14px;
+	color: #993;
+	width: 300px;
+}
+.bblink {
+	font-size: 14px;
+	color: #990;
+	width: 300px;
+}
+</style>
+</head>
+<body onLoad="MM_preloadImages('images/over_r2_c2.gif','images/nn2_r2_c2.gif','images/nn2_r3_c2.gif','images/nn2_r4_c2.gif')">
+<!-- START PAGE SOURCE -->
+<header>
+  <section class="adv-content">
+    <div class="container">
+      <table width="996" height="168" border="1">
+        <tr>
+          <td width="193" height="100" align="right" id="l"><a href="index.html"><img src="images/logo.png" width="178" height="96" alt="log"></a></td>
+          <td width="787" colspan="2" align="right"><div id="FWTableContainer1391365976">
+            <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="737">
+              <!-- fwtable fwsrc="Untitled" fwpage="Page 1" fwbase="test.gif" fwstyle="Dreamweaver" fwdocid = "1391365976" fwnested="0" -->
+              <tr>
+                <td><img src="spacer.gif" width="122" height="1" border="0" alt="" /></td>
+                <td><img src="spacer.gif" width="124" height="1" border="0" alt="" /></td>
+                <td><img src="spacer.gif" width="124" height="1" border="0" alt="" /></td>
+                <td><img src="spacer.gif" width="124" height="1" border="0" alt="" /></td>
+                <td><img src="spacer.gif" width="125" height="1" border="0" alt="" /></td>
+                <td><img src="spacer.gif" width="118" height="1" border="0" alt="" /></td>
+                <td><img src="spacer.gif" width="1" height="1" border="0" alt="" /></td>
+              </tr>
+              <tr>
+                <td><a href="index.html"><img name="test_r1_c1" src="css/test_r1_c1.gif" width="122" height="30" border="0" id="test_r1_c1" alt="" /></a></td>
+                <td><a href="javascript:;" onmouseout="MM_menuStartTimeout(100);" onmouseover="MM_menuShowMenu('MMMenuContainer0613093043_0', 'MMMenu0613093043_0',46,37,'test_r1_c2');"><img name="test_r1_c2" src="css/test_r1_c2.gif" width="124" height="30" border="0" id="test_r1_c2" alt="" /></a></td>
+                <td><img name="test_r1_c3" src="css/test_r1_c3.gif" width="124" height="30" border="0" id="test_r1_c3" alt="" /></td>
+                <td><img name="test_r1_c4" src="css/test_r1_c4.gif" width="124" height="30" border="0" id="test_r1_c4" alt="" /></td>
+                <td><img name="test_r1_c5" src="css/test_r1_c5.gif" width="125" height="30" border="0" id="test_r1_c5" alt="" /></td>
+                <td><a href="contact.html"><img name="test_r1_c6" src="css/test_r1_c6.gif" width="118" height="30" border="0" id="test_r1_c6" alt="" /></a></td>
+                <td><img src="spacer.gif" width="1" height="30" border="0" alt="" /></td>
+              </tr>
+            </table>
+            <div id="MMMenuContainer0613093043_0">
+              <div id="MMMenu0613093043_0" onmouseout="MM_menuStartTimeout(100);" onmouseover="MM_menuResetTimeout();"> <a href="safety-equipments.html" id="MMMenu0613093043_0_Item_0" class="MMMIFVStyleMMMenu0613093043_0" onmouseover="MM_menuOverMenuItem('MMMenu0613093043_0');"> Safety&nbsp;Equipments </a> <a href="chemical-products.html" id="MMMenu0613093043_0_Item_1" class="MMMIVStyleMMMenu0613093043_0" onmouseover="MM_menuOverMenuItem('MMMenu0613093043_0');"> Chemical&nbsp;Products </a> <a href="engineering-supplies.html" id="MMMenu0613093043_0_Item_2" class="MMMIVStyleMMMenu0613093043_0" onmouseover="MM_menuOverMenuItem('MMMenu0613093043_0');"> Engineering&nbsp;Supplies </a> </div>
+            </div>
+          </div></td>
+        </tr>
+        <tr>
+          <td height="60" colspan="3"><form action="#" id="search-form">
+            <fieldset>
+              <input type="text" value="">
+              <input type="submit" value="">
+            </fieldset>
+          </form></td>
+        </tr>
+      </table>
+    </div>
+  </section>
+</header>
+<section id="content">
+  <div class="top">
+    <div class="container">
+      <div class="clearfix">
+        <section id="gallery">
+          <div class="pics"> 
+          <img src="images/Malvern-Plus-Cubicles.jpg" alt="" width="960" height="500"> 
+          <img src="images/fgh.jpg" alt="" width="2404" height="1548">
+           <img src="images/sawn.jpg" alt="" width="960" height="500">
+          <img src="images/SD 3.jpg" alt="" width="460" height="1414" align="middle"> </div>
+          <a href="#" id="prev"></a> <a href="#" id="next"></a></section>
+        <section id="intro">
+          <div class="inner">
+            <h2><span class="txt1">Company Overview</span></h2>
+            <div class="der">
+              <h3><strong>Eshcol Pvt Ltd, (EPL)</strong> a leading trading organization established in 2006. Currently the EPL is a well-diversified organization which expands its businesses through different divisions such as Industrial chemicals, Industrial safety items and Engineering services etc. EPL is not limited to Sri Lanka but having its rich presence in State of Qatar & United Arab Emirates through our sister companies</h3>
+            </div>
+<p><span class="read"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image15','','images/over_r2_c2.gif',1)"><img src="images/read_r2_c2.gif" name="Image15" width="211" height="72" border="0"></a></span> </p>
+            <div class="read"></div>
+          </div>
+        </section>
+      </div>
+      <p>&nbsp;</p>
+    </div>
+  </div>
+  <div class="middle">
+    <div class="container">
+      <div class="wrapper">
+        <div class="grid3 first">
+          <div class="moree">
+            <div class="services">
+              <table width="291" border="1">
+                <tr>
+                  <td align="center" class="services" id="x">Our Products &amp; Services</td>
+                </tr>
+              </table>
+            </div>
+            <div class="no"><a href="safety-equipments.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image17','','images/nn2_r2_c2.gif',1)"><img src="images/nn1_r2_c2.gif" name="Image17" width="246" height="48" border="0"></a><a href="chemical-products.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image18','','images/nn2_r3_c2.gif',1)"><img src="images/nn1_r3_c2.gif" name="Image18" width="255" height="48" border="0"></a><a href="engineering-supplies.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image19','','images/nn2_r4_c2.gif',1)"><img src="images/nn1_r4_c2.gif" name="Image19" width="254" height="48" border="0"></a></div>
+            <div class="mm"><img src="images/nnn.png" width="253" height="509"></div>
+          </div>
+        </div>
+        <div class="grid9">
+          <section class="images">
+            <table width="673" height="369" border="1" align="center">
+              <tr>
+                <td width="340" height="167" valign="middle" bgcolor="#FFFFFF"><img src="images/pics01.jpg" alt="like" width="330" height="140" align="middle"></td>
+                <td width="317" valign="middle" bgcolor="#FFFFFF"><img src="images/pics02.jpg" width="308" height="140" alt="li"></td>
+              </tr>
+              <tr>
+                              <td height="196" align="center" valign="middle" bgcolor="#F9F9F9"><div class="my"><strong>The EPL enjoys a very good reputation</strong> in industrial business, where we offer various kinds of industrial chemicals to local and international customers from different parts of the world. We are dealing with many chemicals such as Liquid Chlorine, H2O2, Chlorinated paraffin wax, Urea Formality etc</div></td>
+                <td align="center" valign="middle" bgcolor="#F9F9F9"><div class="my"><strong>We have professional team</strong> specialized in each business sectors and well trained to handle any relevant customer requirement of the industry by providing quality products with unmatchable service.  This has helped us to build strong relationship with most of the industries in the market.</div></td>
+              </tr>
+            </table>
+            <hr>
+            <table width="695" height="332" border="1" cellpadding="3">
+              <tr>
+                <td width="164" height="108" valign="middle" bgcolor="#FFFFFF"><img src="images/pics03.jpg" width="154" height="120" alt="r"></td>
+                <td width="156" valign="middle" bgcolor="#FFFFFF"><img src="images/pics04.jpg" width="151" height="124" alt="s"></td>
+                <td width="164" valign="middle" bgcolor="#FFFFFF"><img src="images/IMG_0053[1].JPG" width="159" height="123" alt="t"></td>
+                <td width="167" valign="middle" bgcolor="#FFFFFF"><img src="images/pics06.jpg" width="159" height="126" alt="c"></td>
+              </tr>
+              <tr class="my">
+                <td height="192" valign="middle" bgcolor="#F9F9F9" class="my">EPL is engaged in importing and supplying of building materials such as sawn timber, decorative wood panels etc. also undertaking installations too. </td>
+                <td valign="middle" bgcolor="#F9F9F9" class="my">“Eschol” brand personal safety equipment, like Safety Shoes, Gum Boots, Full body harness, Safety Helmets, Goggles, Overalls etc.</td>
+                <td valign="middle" bgcolor="#F9F9F9" class="my">EPL is engaged in importing and supplying of building materials such as sawn timber, decorative wood panels etc. also undertaking installations too. </td>
+                <td valign="middle" bgcolor="#F9F9F9" class="my">We have very good rapport with most of the major Contractors, Project management companies, consulting & Architectural groups in the island.</td>
+              </tr>
+            </table></p>
+          </section>
+        </div>
+      </div>
+    </div></div>
+  <div class="bottom">
+    <div class="container">
+      <div class="wrapper">
+        <div class="grid4">
+          <div class="bblink"><a href="safety-equipments.html" class="bblink">Safety Equipments</a></div>
+          <ul class="list1">
+            <li class="first">Safety Shoes</li>
+            <li>Gum Boots</li>
+            <li>Safety Overalls</li>
+            <li>Full Body Harness</li>
+            <li>Safety Helmets</li>
+            <li></li>
+          </ul>
+        </div>
+        <div class="grid3">
+          <div class="bblink"><a href="chemical-products.html" class="bblink">Chemical Products</a></div>
+          <ul class="list2">
+            <li>Liquid Chlorine</li>
+            <li>Hydrogen Peroxide</li>
+            <li>Zinc Chemicals</li>
+            <li>Urea Formality</li>
+            <li>Chlorinated Paraffin Wax</li>
+            <li></li>
+        </ul>
+        </div>
+        <div class="grid5">
+          <div class="bblink"><a href="engineering-supplies.html" class="bblink">Engineering Supplies</a></div>
+          <ul class="list2">
+            <li><a href="linen-chute-system.html">Linen Chute Systems</a></li>
+            <li><a href="cubical-partition-system.html">Swan Timber</a></li>
+            <li><a href="cubical-partition-system.html">Cubical Partition Systems</a></li>
+            <li><a href="locker-system.html">Locker Systems</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="footerlink">
+    <table width="968" border="1">
+      <tr>
+        <th width="140" height="36" scope="col"><a href="index.html">Home</a></th>
+        <th width="142" scope="col"><p><a href="#l">Services</a></p></th>
+        <th width="176" scope="col"><a href="#2">Global</a><a href="#3"></a></th>
+        <th width="168" scope="col"><a href="#3">Careers</a><a href="#4"></a></th>
+        <th width="152" scope="col"><a href="#4">News</a><a href="#5"></a></th>
+        <th width="150" scope="col"><a href="contact.html">Contacts</a></th>
+      </tr>
+    </table>
+  </div>
+</footer>
+<script type="text/javascript">
+$(document).ready(function () {
+    $('.pics').cycle({
+        fx: 'toss',
+        next: '#next',
+        prev: '#prev'
+    });
+    $('#datepicker').datepicker({
+        inline: true
+    });
+});
+</script>
+<!-- END PAGE SOURCE -->
+<div align=center></div>
+</body>
+</html>
